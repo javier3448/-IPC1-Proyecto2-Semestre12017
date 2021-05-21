@@ -1,0 +1,4 @@
+producto,cantidad,precion,dia,mes,ano,cliente,metodoPago,total,
+iphone4,4,2300,1,1,2017,Juan Ramon,efectivo,9200,
+macboc,10,12000,2,4,2017,Luis Fernando,tarjeta,120000,
+play4,5,4300,2,3,2017,Juan Luis,Cheque,21500,
